@@ -1,0 +1,36 @@
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+}
+
+.btn{
+    padding: 17px 24px;
+    border-radius: 10px;
+    border: none;
+    background: linear-gradient(#FFA500, #FFD447);
+    font-size: 20px;
+    font-weight: 600px;
+}
+
+#header-container {
+  background-color: #ffffff;
+  border: 1px solid #C6DBFF;
+}
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 100px;
+  align-items: center;
+}
+.header-content h3{
+    font-size: 28px;
+    font: weight 800px; ;
+}
+span{
+    color:#FFA500 ;
+}

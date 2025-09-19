@@ -75,15 +75,32 @@ span {
   background-color: #e6edf9;
   border-radius: 16px;
 }
-.discuss-content h4{
-    font-size: 24px;
-    line-height: 36px;
-    font-weight: 700;
-    margin-bottom: 15px;
+.discuss-content h4 {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 700;
+  margin-bottom: 15px;
 }
-.discuss-content p{
-    font-size: 16px;
-    line-height: 26px;
-    font-weight: 200;
-    margin-bottom: 32px;
+.discuss-content p {
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 200;
+  margin-bottom: 32px;
 }
+
+.Inspiration-banner {
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+  width: 80%;
+  margin: 0px auto 100px ;
+  border: 1px solid #0D132120;
+  border-radius: 16px;
+}
+.banner-video {
+  width: 100%;
+  height: 556px;
+  border: none;
+  border-radius: 12px;
+}
+

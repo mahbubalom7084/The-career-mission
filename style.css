@@ -93,8 +93,8 @@ span {
   justify-content: center;
   padding: 32px;
   width: 80%;
-  margin: 0px auto 100px ;
-  border: 1px solid #0D132120;
+  margin: 0px auto 100px;
+  border: 1px solid #0d132120;
   border-radius: 16px;
 }
 .banner-video {
@@ -104,3 +104,27 @@ span {
   border-radius: 12px;
 }
 
+.target-card-box {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px auto 100px;
+  width: 87.5%;
+}
+
+.card-box {
+  background: linear-gradient(#e6edf9, #9de5ff);
+  padding: 40px;
+  border-radius: 16px;
+  width: 30%;
+}
+.card-box h3{
+  margin-bottom: 15px;
+}
+.card-box a {
+  font-size: 16px;
+  font-weight: bold;
+  color: #0d1321;
+}
+.card-box img {
+  margin-bottom: 24px;
+}

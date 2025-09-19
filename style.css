@@ -55,6 +55,7 @@ span {
   margin-bottom: 32px;
   font-size: 16px;
   line-height: 26px;
+  color: #0D1321;
 }
 .heading-content {
   text-align: center;
@@ -64,6 +65,12 @@ span {
   font-size: 32px;
   font-weight: 700;
   margin-bottom: 20px;
+}
+.heading-content p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #0D1321;
 }
 .discuss-banner {
   display: flex;
@@ -84,7 +91,8 @@ span {
 .discuss-content p {
   font-size: 16px;
   line-height: 26px;
-  font-weight: 200;
+  font-weight: 400;
+  color: #0D1321;
   margin-bottom: 32px;
 }
 
@@ -134,14 +142,14 @@ span {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 100px;
+  padding: 30px 100px;
 }
 .contact-container h4 {
   font-size: 20px;
   font-weight: 600;
 }
 .social-media-icon img {
-  width: 40px;
+  width: 30px;
   margin: 0 10px;
   height: auto;
   cursor: pointer;

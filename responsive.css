@@ -1,7 +1,6 @@
 @media screen and (max-width: 1200px) {
   .contact-container h4 {
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 20px;
   }
 }
 
@@ -10,12 +9,9 @@
   .banner-video {
     height: 400px;
   }
-  .heading-content p {
-    font-size: 15px;
-  }
+
   .btn {
     padding: 15px 20px;
-    font-size: 20px;
     font-weight: 400px;
   }
 }
@@ -24,15 +20,13 @@
 @media screen and (max-width: 640px) {
   .btn {
     padding: 10px 15px;
-    font-size: 20px;
-    font-weight: 600;
+
   }
   .header-content {
     padding: 15px 20px;
   }
   .banner-content h2 {
     line-height: 50px;
-    font-weight: 800;
     font-size: 35px;
   }
 
@@ -47,7 +41,6 @@
   }
   .contact-container h4 {
     font-size: 15px;
-    font-weight: 600;
   }
 
 }

@@ -18,6 +18,11 @@ body {
   font-weight: 600px;
   box-shadow: 4px 4px 4px #00000025;
 }
+.btn:hover{
+  color: #ffffff;
+  background: #0d1321;
+  cursor: pointer;
+}
 
 
 #header-container {

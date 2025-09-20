@@ -16,6 +16,7 @@ body {
   background: linear-gradient(#ffa500, #ffd447);
   font-size: 20px;
   font-weight: 600px;
+  box-shadow: 4px 4px 4px #00000025;
 }
 
 

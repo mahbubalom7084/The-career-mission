@@ -52,8 +52,10 @@
 }
   .contact-container {
     padding: 10px 30px;
+    flex-direction: column;
   }
   .contact-container h4 {
     font-size: 15px;
+    margin-bottom: 20px;
   }
 }

@@ -20,21 +20,35 @@
 @media screen and (max-width: 640px) {
   .btn {
     padding: 10px 15px;
-
   }
+  img{
+  width: 100%;
+}
   .header-content {
     padding: 15px 20px;
   }
   .banner-content h2 {
     line-height: 50px;
-    font-size: 35px;
+    font-size: 30px;
   }
 
   .discuss-banner {
     flex-direction: column-reverse;
   }
+  .target-card-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  .card-box{
+    width: 80%;
+  }
   .card-box a {
-  font-size: 15px;
+    font-size: 15px;
+  }
+  .card-box img {
+  width: 20%;
 }
   .contact-container {
     padding: 10px 30px;
@@ -42,5 +56,4 @@
   .contact-container h4 {
     font-size: 15px;
   }
-
 }
